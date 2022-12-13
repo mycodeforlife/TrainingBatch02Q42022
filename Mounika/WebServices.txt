@@ -1,0 +1,72 @@
+                                   WEB SERVICES
+
+	They work on http protocol . "web services" defines what kind of request is sent  and response is received between any two servers (or) server to system (or) system to system . 
+
+Two types:
+1.SOAP(simple object access protocal)
+2.REST
+
+
+SOAP API: We need to follow some parameters while sending SOAP request:
+
+1.Focusing on EndPoint URL:
+Ex:http://www.facebook.com/login
+   http://www.facebook.com/CreateAccount
+
+For example,Above URL will be created by dev team and tested by testing team to check wheather the page is navigating to correct URL or not.
+
+2.Request and Response only in XML format.
+Ex:
+Request
+<username>Mounika</username>
+<password>1234</password>
+*Once the request is sent to server,server checks weather the given data is in server or not and sends the response in XML format.
+
+3.Response
+Ex:
+<result>success</result>
+
+*SOAP is used in earlier,In present technology "REST " is used.
+
+Disadvantages:
+1.Can pass the request only in XML format only.
+  *whereas in REST API ,can pass the request in many ways(will discuss in REST API)
+
+REST API
+
+1.Endpoint URL
+
+2.In REST ,request and response can be sent in multiple ways like
+XML
+JSON
+STRING
+DOCUMENT
+
+3.Types of calls/operations;
+*Create/POST
+*Retrive/GET
+*update/PUT
+*Delete/DELETE
+
+4.Responce in XML OR JSON format.
+username/password--authentication
+
+5.Responce code:
+Ex:505,100 etc
+
+SOME OF TOOLS FOR TESTING WEB SERVICES
+
+1.POSTMAN-Used to Test REST API
+2.JMETER-REST
+3.SOAP UI.SOAP
+4.REST CLIENT-REST
+5.REST ASSUERD-REST
+6.JerseyClient-REST
+7.HTTP Client-REST
+
+
+
+
+
+
+
