@@ -1,0 +1,60 @@
+
+
+Waterfall Methodology/Model
+
+	Water fall model is a sequential development process that divides software development into predefined phases.
+	Each phase is designed to perform a specific task, and must be completed before the next phase can begin with no overlap between the phases.
+      
+    When to use this method: 
+
+	The requirements are not changing frequently
+	The application is not complicated and big.
+	When the project is short.
+	The requirement is clear and environment is stable.
+	When the technology and tools are not dynamic and is stable.
+	The resources are available and trained.
+
+  What are the different Phases of Waterfall Model:
+
+1.	Requirement Analysis
+2.	System Design
+3.	Implementation
+4.	System Testing
+5.	Deployment
+6.	Maintenance
+ 
+	Requirement Phase: Gathering the detailed requirements of the software system to be developed.
+	Design Phase: Brainstorm the possible solutions and plan the programming language like Java, python or database like oracle, SQL etc. and high level and technical details of the projects.
+	Implementation / Build: This phase is when the programmers assimilate the requirements and specifications from the previous code and produce the actual code.
+	Testing: Verify the software that it built as per specifications and meet the requirements by the client. 
+	Deployment: The software is deployed into a live environment (client’s server) in order to test its performance.
+	Maintenance: once system is ready to use, you may later require change the code per customer request. In other words, provide support and maintenance to the software, to make sure it runs smoothly. 
+
+
+
+
+
+
+Advantages and Disadvantages of Waterfall Model:
+
+Advantages:
+
+	Each phase must complete before the next phase starts.
+	Suits for small projects where requirements are well defined.
+	Performs QA test before each phase.
+	Elaborate documentation is done at every phase of development.
+	Project completely dependent on project team with minimum client intervention.
+	Any changes in software is made during the process of development.
+
+Disadvantages:
+
+	Error can be fixed only during the working phase.
+	It is not desirable for complex project where the requirements change frequently.
+	Testing period comes quite late in the development process.
+	Documentation occupies a lot of time of developers and testers.
+	Client feedback cannot be included with ongoing development phase.
+	Small changes or errors that arise in the completed software may cause multiple problems.
+
+             
+
+

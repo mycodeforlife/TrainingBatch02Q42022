@@ -1,0 +1,6 @@
+git commands
+git clone
+git vi filename
+git add *
+git commit *
+git push *
