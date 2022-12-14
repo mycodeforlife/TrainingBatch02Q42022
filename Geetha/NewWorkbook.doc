@@ -1,0 +1,36 @@
+this new workbook about Epic, user story, team velocity,kanban dashboard and agile teminologies
+
+
+
+
+Epic: 
+	Epic is a body of work that can be broken-down into specific tasks (called user story) based on the needs of customers or end-users.
+	It helps to organize your work and to create a hierarchy, the idea is to break down into shippable pieces so that large projects can actually get done and you can continue to ship value to user.
+
+User Story: 
+	User story is an Informal, general explanation of a software feature written from the perspective of the end user.
+	After reading a user story, the team knows why and what they are building and what value it creates.
+	In other words, it’s a user focused framework for daily work which drives collaboration, creativity and a better product.
+	It’s an end goal expressed from software user perspective.
+
+Team Velocity:
+	Team velocity is a measure of the amount of work a team can take during a single sprint.
+	Average amount of work a team can complete in one delivery cycle.
+	Calculated by dividing total story points completed by the team by the number of sprints.
+
+Kanban Dashboard:
+	It is an agile project management tool designed to help visualize the work limit, work in progress and maximize efficiency or flow.
+	It helps teams establish order in their daily work.
+	The dashboard uses cards, columns and continuous improvements to help technology and service teams commit to the right amount of work and get it done.
+	Components of dashboard are visual signals, columns, work in progress limits, commitment point and a delivery point.
+
+Visual Signals-Write all projects and work items into cards, usually one card to understand what the team is working on.
+Columns-Each represents a specific activity that together compose a work flow. A simple as “to do “, “in progress”, “complete” or more complex.
+Work in progress limits- The maximum number of cards that can be more than 3 cards in it. It gives you early warning sign that you committed to too much work.
+Commitment point- The moment when an idea is picked up by the team and work starts on project.
+Delivery point- End of a Kanban teams work flow, when the product or service is in the hands of the customer.
+
+Some of the Agile Terminologies that are generally used are: Sprint, scrum, release, continuous integration, continuous delivery, Kanban etc.
+
+
+
