@@ -1,0 +1,9 @@
+a=100
+b=200
+c='hello'
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a%b)
+print(a,b,c)
