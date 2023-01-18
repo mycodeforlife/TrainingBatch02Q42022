@@ -1,0 +1,7 @@
+x = int(input())
+
+if 0 in x:
+
+ print("Given number has zero in it")
+else:
+ print("given number doesnt has zero in it")
