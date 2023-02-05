@@ -1,0 +1,18 @@
+Index: Geetha/pythonlearning/calcculator_ex.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import sys\n\nglobal_x = 10\ndef add(num1,num2):\n    x = num1+num2\n    print(global_x)\n    return x\n\ndef subtract(num1, num2):\n    print(x)\n    y = num1 - num2\n    print(global_x)\n    return y\n\n\na = int(sys.argv[1])\nb = int(sys.argv[2])\n\nsum_val = add(a,b)\ndiff = subtract(sum_val,3)\nprint(diff)\n\n\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Geetha/pythonlearning/calcculator_ex.py b/Geetha/pythonlearning/calcculator_ex.py
+--- a/Geetha/pythonlearning/calcculator_ex.py	(revision 45ddc1cdaae3fd4ebeef9ba33e0e15c34e8afb53)
++++ b/Geetha/pythonlearning/calcculator_ex.py	(date 1674076619434)
+@@ -4,6 +4,7 @@
+ def add(num1,num2):
+     x = num1+num2
+     print(global_x)
++
+     return x
+ 
+ def subtract(num1, num2):
