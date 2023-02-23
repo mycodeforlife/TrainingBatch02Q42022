@@ -1,0 +1,1175 @@
+1675963961146	geckodriver	INFO	Listening on 127.0.0.1:65115
+1675963964202	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65116" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileOMbCaW"
+1675963966103	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675963966115	Marionette	INFO	Listening on port 65137
+Read port: 65137
+WebDriver BiDi listening on ws://127.0.0.1:65116
+1675963967938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileOMbCaW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65116/devtools/browser/9d4e1963-c033-4059-9abd-3bfd1b4ee0dc
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 35: TypeError: this.browsingContext.topChromeWindow is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 35: TypeError: this.browsingContext.topChromeWindow is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 35: TypeError: this.browsingContext.topChromeWindow is null
+1675969385124	Marionette	INFO	Stopped listening on port 65137
+Dynamically enable window occlusion 1
+0033
+WebDriver BiDi listening on ws://127.0.0.1:50024
+1675965007527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofiledX8Dnf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50024/devtools/browser/7a59d735-c703-4314-8170-5cf91fd22cf5
+1675969385100	Marionette	INFO	Stopped listening on port 50033
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+"--remote-debugging-port" "50084" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileIdIDC9"
+1675965021494	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675965021500	Marionette	INFO	Listening on port 50092
+Read port: 50092
+WebDriver BiDi listening on ws://127.0.0.1:50084
+1675965021707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileIdIDC9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50084/devtools/browser/724a22ae-4eb1-4d26-89a9-0172dd5d1bbd
+1675965066068	Marionette	INFO	Stopped listening on port 50092
+Dynamically enable window occlusion 1
+1675965111909	geckodriver	INFO	Listening on 127.0.0.1:50206
+1675965114973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50207" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileOwMou0"
+1675965115366	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675965115373	Marionette	INFO	Listening on port 50218
+Read port: 50218
+WebDriver BiDi listening on ws://127.0.0.1:50207
+1675965115582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileOwMou0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50207/devtools/browser/0006308d-e1f9-407b-b2e2-4ccc8d35b746
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1675969385102	Marionette	INFO	Stopped listening on port 50218
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50286" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofiles7X54s"
+1675965134293	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675965134302	Marionette	INFO	Listening on port 50297
+Read port: 50297
+WebDriver BiDi listening on ws://127.0.0.1:50286
+1675965134490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofiles7X54s\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50286/devtools/browser/50deb5de-7018-41b2-9fb2-a6035ad0e058
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1675969385095	Marionette	INFO	Stopped listening on port 50297
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50393" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofile5p5QHG"
+1675965184973	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675965184984	Marionette	INFO	Listening on port 50405
+Read port: 50405
+WebDriver BiDi listening on ws://127.0.0.1:50393
+1675965185200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofile5p5QHG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50393/devtools/browser/baa2a8eb-42bb-4fa3-b4be-91072ac1ec4d
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675965363325	Marionette	INFO	Stopped listening on port 50405
+Dynamically enable window occlusion 1
+fileQ3IftY"
+1675965226713	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675965226722	Marionette	INFO	Listening on port 50502
+Read port: 50502
+WebDriver BiDi listening on ws://127.0.0.1:50491
+1675965226910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileQ3IftY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50491/devtools/browser/270f3aff-abac-4f67-901a-c111e7b78e9c
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1675965232654	Marionette	INFO	Stopped listening on port 50502
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1675965339344	geckodriver	INFO	Listening on 127.0.0.1:50653
+1675965342405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50654" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileJnsRL1"
+1675965342774	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675965342781	Marionette	INFO	Listening on port 50663
+Read port: 50663
+WebDriver BiDi listening on ws://127.0.0.1:50654
+1675965342960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileJnsRL1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50654/devtools/browser/a96f71a1-63b0-44ae-a9a3-73783e92edbb
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1675965351642	Marionette	INFO	Stopped listening on port 50663
+Dynamically enable window occlusion 1
+1675965378998	geckodriver	INFO	Listening on 127.0.0.1:50749
+1675965382060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50750" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileZD5KU2"
+1675965382428	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675965382437	Marionette	INFO	Listening on port 50758
+Read port: 50758
+WebDriver BiDi listening on ws://127.0.0.1:50750
+1675965382617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileZD5KU2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50750/devtools/browser/65da16bf-d282-4f98-a474-9b308e23431d
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+1675965386427	Marionette	INFO	Stopped listening on port 50758
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1675968833542	geckodriver	INFO	Listening on 127.0.0.1:54121
+1675968836618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54122" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileuHNwMf"
+1675968837023	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675968837031	Marionette	INFO	Listening on port 54131
+Read port: 54131
+WebDriver BiDi listening on ws://127.0.0.1:54122
+1675968837202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileuHNwMf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54122/devtools/browser/d0bfce0b-42e1-45d5-a805-f42b851f529d
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1675968840820	Marionette	INFO	Stopped listening on port 54131
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1675969066650	geckodriver	INFO	Listening on 127.0.0.1:54360
+1675969069734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54361" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofilePiHCHV"
+1675969070146	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675969070154	Marionette	INFO	Listening on port 54369
+Read port: 54369
+WebDriver BiDi listening on ws://127.0.0.1:54361
+1675969070326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofilePiHCHV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54361/devtools/browser/3ec3d985-4cdb-40d4-bc79-0001d7e8a918
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+1675969385102	Marionette	INFO	Stopped listening on port 54369
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54499" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofile5PUFot"
+1675969165128	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675969165135	Marionette	INFO	Listening on port 54511
+Read port: 54511
+WebDriver BiDi listening on ws://127.0.0.1:54499
+1675969165326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofile5PUFot\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54499/devtools/browser/05701119-9ad8-46f8-887f-0d83db817fd9
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1675969385112	Marionette	INFO	Stopped listening on port 54511
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54592" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileGieJlN"
+1675969200357	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675969200363	Marionette	INFO	Listening on port 54601
+Read port: 54601
+WebDriver BiDi listening on ws://127.0.0.1:54592
+1675969200558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileGieJlN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54592/devtools/browser/ee6461f1-d62b-4d62-ad15-9313417ccf83
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1675969385093	Marionette	INFO	Stopped listening on port 54601
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54693" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofilesbKdju"
+1675969243827	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675969243833	Marionette	INFO	Listening on port 54706
+Read port: 54706
+WebDriver BiDi listening on ws://127.0.0.1:54693
+1675969244006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofilesbKdju\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54693/devtools/browser/14a810e9-bd0d-48ac-9625-dde7943cb23b
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+1675969385091	Marionette	INFO	Stopped listening on port 54706
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54786" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileTKhP3t"
+1675969270764	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675969270772	Marionette	INFO	Listening on port 54795
+Read port: 54795
+WebDriver BiDi listening on ws://127.0.0.1:54786
+1675969270954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileTKhP3t\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54786/devtools/browser/b115cfb2-3fce-43ae-b217-a367ca546e71
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1675969376776	Marionette	INFO	Stopped listening on port 54795
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54885" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileGbt9jT"
+1675969312425	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675969312433	Marionette	INFO	Listening on port 54894
+Read port: 54894
+WebDriver BiDi listening on ws://127.0.0.1:54885
+1675969312614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileGbt9jT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54885/devtools/browser/31da5894-8606-4874-af5c-d03a51d0e700
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1675969319062	Marionette	INFO	Stopped listening on port 54894
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1675969329304	geckodriver	INFO	Listening on 127.0.0.1:54968
+1675969332365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54969" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofilevuWkCt"
+1675969332927	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675969332936	Marionette	INFO	Listening on port 54981
+Read port: 54981
+WebDriver BiDi listening on ws://127.0.0.1:54969
+1675969333145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofilevuWkCt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54969/devtools/browser/4bf18495-bb8e-4a55-8d22-5b6652786daa
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1675969337207	Marionette	INFO	Stopped listening on port 54981
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1676060213118	geckodriver	INFO	Listening on 127.0.0.1:50533
+1676060216197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50534" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofiletMuxcZ"
+1676060216951	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676060216963	Marionette	INFO	Listening on port 50543
+Read port: 50543
+WebDriver BiDi listening on ws://127.0.0.1:50534
+1676060217165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofiletMuxcZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50534/devtools/browser/d53562c0-74d6-42aa-b53d-cf142cc73825
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1676060221461	Marionette	INFO	Stopped listening on port 50543
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1676244096981	geckodriver	INFO	Listening on 127.0.0.1:61623
+1676244100104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61624" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofilerxi7WF"
+1676244101047	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676244101058	Marionette	INFO	Listening on port 61633
+Read port: 61633
+WebDriver BiDi listening on ws://127.0.0.1:61624
+1676244101273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofilerxi7WF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61624/devtools/browser/4de82225-df45-46b2-88a0-c8db00b32945
+JavaScript warning: https://assets.adobedtm.com/1a1f0c5245aa/64a019d0ef67/launch-8a826799f995.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.similac.com/etc.clientlibs/an/similac/clientlibs/clientlib-similac-commons.lc-1675847940984-lc.min.js, line 3969: TypeError: e[t] is undefined
+[Parent 21136, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+JavaScript error: https://www.similac.com/etc.clientlibs/an/similac/clientlibs/clientlib-similac-commons-abbott-global.lc-876f279cd78080814d90a1e7192080f8-lc.min.js, line 82169: ReferenceError: google is not defined
+JavaScript warning: https://assets.adobedtm.com/1a1f0c5245aa/64a019d0ef67/launch-8a826799f995.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676244114988	Marionette	INFO	Stopped listening on port 61633
+Dynamically enable window occlusion 1
+1676244854225	geckodriver	INFO	Listening on 127.0.0.1:62430
+1676244857261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62431" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofilevIq3tW"
+1676244857582	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676244857589	Marionette	INFO	Listening on port 62441
+Read port: 62441
+WebDriver BiDi listening on ws://127.0.0.1:62431
+1676244857756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofilevIq3tW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62431/devtools/browser/f6fbc9d9-43b9-44a5-bb19-f03ec3b31be6
+JavaScript warning: https://assets.adobedtm.com/1a1f0c5245aa/64a019d0ef67/launch-8a826799f995.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676244962397	Marionette	INFO	Stopped listening on port 62441
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62574" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileDGAZiO"
+1676244886122	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676244886127	Marionette	INFO	Listening on port 62583
+Read port: 62583
+WebDriver BiDi listening on ws://127.0.0.1:62574
+1676244886287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileDGAZiO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62574/devtools/browser/59ca09c8-da03-4939-8028-5356f7deac4a
+JavaScript warning: https://assets.adobedtm.com/1a1f0c5245aa/64a019d0ef67/launch-8a826799f995.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-akamai.mookie1.com/adv/abbott.js, line 78: ReferenceError: ttd_dom_ready is not defined
+1676244960609	Marionette	INFO	Stopped listening on port 62583
+Dynamically enable window occlusion 1
+[Parent 2552, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+p\\AppData\\Local\\Temp\\rust_mozprofiledRmAsr"
+1676244929798	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676244929806	Marionette	INFO	Listening on port 62742
+Read port: 62742
+WebDriver BiDi listening on ws://127.0.0.1:62731
+1676244929988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofiledRmAsr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62731/devtools/browser/b1c4ae59-7ebf-4313-be7c-6581e66f5c45
+JavaScript warning: https://assets.adobedtm.com/1a1f0c5245aa/64a019d0ef67/launch-8a826799f995.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676244958727	Marionette	INFO	Stopped listening on port 62742
+Dynamically enable window occlusion 1
+[Parent 17028, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1676245030043	geckodriver	INFO	Listening on 127.0.0.1:62945
+1676245033137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62946" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofiletTg9QA"
+1676245033458	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676245033463	Marionette	INFO	Listening on port 62957
+Read port: 62957
+WebDriver BiDi listening on ws://127.0.0.1:62946
+1676245033642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofiletTg9QA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62946/devtools/browser/e1bf233c-429e-4fc3-857d-afe415a94e85
+JavaScript warning: https://assets.adobedtm.com/1a1f0c5245aa/64a019d0ef67/launch-8a826799f995.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676321122191	Marionette	INFO	Stopped listening on port 62957
+Dynamically enable window occlusion 1
+1676321248613	geckodriver	INFO	Listening on 127.0.0.1:63935
+1676321251717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63936" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofilexgxIb5"
+1676321252162	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676321252170	Marionette	INFO	Listening on port 63949
+Read port: 63949
+WebDriver BiDi listening on ws://127.0.0.1:63936
+1676321252391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofilexgxIb5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63936/devtools/browser/cd33e643-cba1-4778-b3c8-7d8ca6c5f808
+JavaScript warning: https://assets.adobedtm.com/1a1f0c5245aa/64a019d0ef67/launch-8a826799f995.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://zn3fac4uxqhtfahwt-abbottnutrition.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_3Fac4uXqHtfAHWt, line 3: Error: Loading chunk 13 failed.
+(error: https://siteintercept.qualtrics.com/dxjsmodule/13.5e21898857f4389ff4e3.chunk.js?Q_CLIENTVERSION=1.84.0&Q_CLIENTTYPE=web&Q_BRANDID=www.similac.com)
+JavaScript error: https://www.similac.com/etc.clientlibs/an/similac/clientlibs/clientlib-similac-commons.lc-1675847940984-lc.min.js, line 3969: TypeError: e[t] is undefined
+JavaScript warning: https://assets.adobedtm.com/1a1f0c5245aa/64a019d0ef67/launch-8a826799f995.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.similac.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 568"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:568:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 568, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 568: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1676321322942	Marionette	INFO	Stopped listening on port 63949
+Dynamically enable window occlusion 1
+1676321335403	geckodriver	INFO	Listening on 127.0.0.1:64209
+1676321338464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64210" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileZwgDPA"
+1676321338794	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676321338800	Marionette	INFO	Listening on port 64218
+Read port: 64218
+WebDriver BiDi listening on ws://127.0.0.1:64210
+1676321339142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileZwgDPA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64210/devtools/browser/6007d909-db73-4e90-902b-c4776fbf7319
+JavaScript warning: https://assets.adobedtm.com/1a1f0c5245aa/64a019d0ef67/launch-8a826799f995.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.similac.com/etc.clientlibs/an/similac/clientlibs/clientlib-similac-commons.lc-1675847940984-lc.min.js, line 3969: TypeError: e[t] is undefined
+JavaScript error: https://www.similac.com/etc.clientlibs/an/similac/clientlibs/clientlib-similac-commons-abbott-global.lc-876f279cd78080814d90a1e7192080f8-lc.min.js, line 82169: ReferenceError: google is not defined
+JavaScript warning: https://assets.adobedtm.com/1a1f0c5245aa/64a019d0ef67/launch-8a826799f995.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676321347256	Marionette	INFO	Stopped listening on port 64218
+Dynamically enable window occlusion 1
+1676342239805	geckodriver	INFO	Listening on 127.0.0.1:56828
+1676342242850	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56829" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileMDrGpj"
+1676342243418	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676342243423	Marionette	INFO	Listening on port 56837
+Read port: 56837
+WebDriver BiDi listening on ws://127.0.0.1:56829
+1676342243637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileMDrGpj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56829/devtools/browser/0410962a-18d8-4c00-98f2-4f3923a3c763
+JavaScript warning: https://www.amazon.com/ line 2252 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676342252994	Marionette	INFO	Stopped listening on port 56837
+Dynamically enable window occlusion 1
+[Parent 26732, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1676342571400	geckodriver	INFO	Listening on 127.0.0.1:57161
+1676342574445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57162" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileLGscae"
+1676342574846	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676342574853	Marionette	INFO	Listening on port 57171
+Read port: 57171
+WebDriver BiDi listening on ws://127.0.0.1:57162
+1676342575036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileLGscae\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57162/devtools/browser/4cc33fca-a370-490d-adf9-f30182621c98
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/s?k=Baby+Toys&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: Failed to open input source 'file:///'
+JavaScript error: https://www.amazon.com/Pbooo-Dancing-Talking-Singing-Recording/dp/B096FGW2S2/ref=sr_1_1_sspa?keywords=Baby+Toys&qid=1676342584&sr=8-1-spons&psc=1&smid=A1H1OWYSW0QZWD&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzUlRET083MUxKUVo3JmVuY3J5cHRlZElkPUEwMDMxNjU1OTBTWkpKQ0Q0Slk4JmVuY3J5cHRlZEFkSWQ9QTAzMDQ0MDIxVVVRR09TRVE5VjZLJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==, line 103: Error: sp.load.js already registered
+JavaScript error: https://www.amazon.com/Pbooo-Dancing-Talking-Singing-Recording/dp/B096FGW2S2/ref=sr_1_1_sspa?keywords=Baby+Toys&qid=1676342584&sr=8-1-spons&psc=1&smid=A1H1OWYSW0QZWD&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzUlRET083MUxKUVo3JmVuY3J5cHRlZElkPUEwMDMxNjU1OTBTWkpKQ0Q0Slk4JmVuY3J5cHRlZEFkSWQ9QTAzMDQ0MDIxVVVRR09TRVE5VjZLJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==, line 103: Error: sp.load.js already registered
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442450952"
+console.error: "Unable to find target with innerWindowId:6442450952"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal17179869185/layout24, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal17179869186/layout46, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal17179869187/layout46, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal17179869188/layout26, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal17179869189/layout32, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal17179869190/layout31, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450972/layout94, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Unable to find target with innerWindowId:17179869185"
+console.error: "Unable to find target with innerWindowId:17179869185"
+console.error: "Unable to find target with innerWindowId:6442450972"
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3513: TypeError: data.frameData.id is null
+console.error: "Unable to find target with innerWindowId:17179869186"
+console.error: "Unable to find target with innerWindowId:6442450972"
+console.error: "Unable to find target with innerWindowId:17179869190"
+console.error: "Unable to find target with innerWindowId:17179869190"
+console.error: "Unable to find target with innerWindowId:17179869185"
+console.error: "Unable to find target with innerWindowId:17179869185"
+console.error: "Unable to find target with innerWindowId:17179869187"
+console.error: "Unable to find target with innerWindowId:17179869190"
+console.error: "Unable to find target with innerWindowId:17179869190"
+console.error: "Unable to find target with innerWindowId:17179869185"
+console.error: "Unable to find target with innerWindowId:17179869185"
+console.error: "Unable to find target with innerWindowId:6442450972"
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://www.amazon.com/s?k=Baby+Toys&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: https://www.amazon.com/Oball-81107-Kids-Shaker-Toy/dp/B008J1QP7Y/ref=sr_1_1?keywords=Baby+Toys&qid=1676342655&sr=8-1, line 103: Error: sp.load.js already registered
+JavaScript error: https://www.amazon.com/Oball-81107-Kids-Shaker-Toy/dp/B008J1QP7Y/ref=sr_1_1?keywords=Baby+Toys&qid=1676342655&sr=8-1, line 103: Error: sp.load.js already registered
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442450985"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://www.amazon.com/Oball-81107-Kids-Shaker-Toy/dp/B008J1QP7Y/ref=sr_1_1?keywords=Baby+Toys&qid=1676342655&sr=8-1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442451007"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451030/layout27, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451031/layout27, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451032/layout27, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://www.amazon.com/s?k=Baby+Toys&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: https://www.amazon.com/Infinno-Activity-Center-Stimulate-Growth/dp/B07XC6YCC5/ref=sr_1_1_sspa?keywords=Baby+Toys&qid=1676342676&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExT0lMMkZEV1AyWk02JmVuY3J5cHRlZElkPUEwNzAzMjc0MTdYMUREVjRHSVdDVCZlbmNyeXB0ZWRBZElkPUEwNzM4NDM5MVBRSllKT0lIRVU4SCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=, line 103: Error: sp.load.js already registered
+JavaScript error: https://www.amazon.com/Infinno-Activity-Center-Stimulate-Growth/dp/B07XC6YCC5/ref=sr_1_1_sspa?keywords=Baby+Toys&qid=1676342676&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExT0lMMkZEV1AyWk02JmVuY3J5cHRlZElkPUEwNzAzMjc0MTdYMUREVjRHSVdDVCZlbmNyeXB0ZWRBZElkPUEwNzM4NDM5MVBRSllKT0lIRVU4SCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=, line 103: Error: sp.load.js already registered
+console.error: "Unable to find target with innerWindowId:6442451026"
+console.error: "Unable to find target with innerWindowId:6442451026"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://www.amazon.com/Infinno-Activity-Center-Stimulate-Growth/dp/B07XC6YCC5/ref=sr_1_1_sspa?keywords=Baby+Toys&qid=1676342676&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExT0lMMkZEV1AyWk02JmVuY3J5cHRlZElkPUEwNzAzMjc0MTdYMUREVjRHSVdDVCZlbmNyeXB0ZWRBZElkPUEwNzM4NDM5MVBRSllKT0lIRVU4SCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU= line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1676342742551	Marionette	INFO	Stopped listening on port 57171
+Dynamically enable window occlusion 1
+1676343004139	geckodriver	INFO	Listening on 127.0.0.1:57836
+1676343007167	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57837" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileAUI2Mu"
+1676343007663	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676343007670	Marionette	INFO	Listening on port 57846
+Read port: 57846
+WebDriver BiDi listening on ws://127.0.0.1:57837
+1676343007847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileAUI2Mu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57837/devtools/browser/70839b98-454f-443c-b94d-956e918424e6
+JavaScript warning: https://www.amazon.com/ line 2258 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Baby+Toys line 8952 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676343275789	geckodriver	INFO	Listening on 127.0.0.1:58249
+1676343278863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58250" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofilesr5D6d"
+1676343279203	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676343279211	Marionette	INFO	Listening on port 58259
+Read port: 58259
+WebDriver BiDi listening on ws://127.0.0.1:58250
+1676343279408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofilesr5D6d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58250/devtools/browser/ed9e8b05-6bd7-491b-a7b6-93d557262bc5
+JavaScript warning: https://www.amazon.com/ line 2227 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Baby+Toys line 8953 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/Oball-81107-Kids-Shaker-Toy/dp/B008J1QP7Y/ref=sr_1_2?keywords=Baby+Toys&qid=1676343288&sr=8-2 line 11499 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Baby+Toys&ref=nb_sb_noss line 8953 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676343391243	Marionette	INFO	Stopped listening on port 58259
+Dynamically enable window occlusion 1
+1676343572494	geckodriver	INFO	Listening on 127.0.0.1:58718
+1676343575554	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58719" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofile17H5iz"
+1676343575893	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676343575899	Marionette	INFO	Listening on port 58730
+Read port: 58730
+WebDriver BiDi listening on ws://127.0.0.1:58719
+1676343576109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofile17H5iz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58719/devtools/browser/9f0acdfa-7f93-47f2-932b-d9f8985cc174
+JavaScript warning: https://www.amazon.com/ line 2210 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+1676343585137	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.amazon.com/s?k=Baby+Toys&ref=nb_sb_noss line 8829 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676343595090	Marionette	INFO	Stopped listening on port 58730
+Dynamically enable window occlusion 1
+1676343706880	geckodriver	INFO	Listening on 127.0.0.1:59011
+1676343709950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59012" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofile4ofZD7"
+1676343710312	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676343710319	Marionette	INFO	Listening on port 59021
+Read port: 59021
+WebDriver BiDi listening on ws://127.0.0.1:59012
+1676343710503	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofile4ofZD7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59012/devtools/browser/35f8e34d-4c05-4e17-a813-36ea5f395fd8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/s?k=Baby+Toys&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676343737500	Marionette	INFO	Stopped listening on port 59021
+Dynamically enable window occlusion 1
+1676343759436	geckodriver	INFO	Listening on 127.0.0.1:59250
+1676343762497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59251" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofilezVOuqd"
+1676343762926	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676343762935	Marionette	INFO	Listening on port 59260
+Read port: 59260
+WebDriver BiDi listening on ws://127.0.0.1:59251
+1676343763102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofilezVOuqd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59251/devtools/browser/4d513ed5-6ca2-4b39-9f0b-ada2d67542cb
+JavaScript warning: https://assets.adobedtm.com/1a1f0c5245aa/64a019d0ef67/launch-8a826799f995.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.similac.com/etc.clientlibs/an/similac/clientlibs/clientlib-similac-commons.lc-1675847940984-lc.min.js, line 3969: TypeError: e[t] is undefined
+JavaScript warning: https://assets.adobedtm.com/1a1f0c5245aa/64a019d0ef67/launch-8a826799f995.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676343774595	Marionette	INFO	Stopped listening on port 59260
+Dynamically enable window occlusion 1
+JavaScript error: https://insight.adsrvr.org/track/up?adv=takjsit&ref=https%3A%2F%2Fwww.similac.com%2Frewards.html&upid=zk6xr4g&upv=1.1.0&orderid=&v=0.00&vf=USD&td1=https://www.similac.com/home.html&td2=internal&td3=&td4=&td5=&td6=&td7=&td8=&td9=, line 10: ReferenceError: TTDCM is not defined
+1676343894056	geckodriver	INFO	Listening on 127.0.0.1:59544
+1676343897098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59545" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofiledzwO9k"
+1676343897428	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676343897435	Marionette	INFO	Listening on port 59556
+Read port: 59556
+WebDriver BiDi listening on ws://127.0.0.1:59545
+1676343897651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofiledzwO9k\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59545/devtools/browser/836d83fd-0680-4890-8e30-6887d38550c7
+JavaScript warning: https://www.amazon.com/ line 928 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676343920119	Marionette	INFO	Stopped listening on port 59556
+Dynamically enable window occlusion 1
+1676343942080	geckodriver	INFO	Listening on 127.0.0.1:59654
+1676343945137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59655" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileEfI9H5"
+1676343945469	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676343945476	Marionette	INFO	Listening on port 59666
+Read port: 59666
+WebDriver BiDi listening on ws://127.0.0.1:59655
+1676343945669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileEfI9H5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59655/devtools/browser/fa36a320-5a7e-4cf9-b9de-efd50fc9e38d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/s?k=Baby+Toys&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 8196, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+JavaScript warning: https://www.amazon.com/s?k=Baby+Toys&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Baby+Toys&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: Failed to open input source 'file:///'
+console.error: "Unable to find target with innerWindowId:6442450996"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://www.amazon.com/s?k=Baby+Toys&rh=n%3A165793011%2Cp_72%3A1248965011&dc&ds=v1%3ArZNc23XMqDP4gqgKIfiQ%2F8ZXssZLb2tDhV52si%2BKphk&qid=1676343973&rnid=1248961011&ref=sr_nr_p_72_3 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451031/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:91:30\ninitialize@resource://devtools/client/fronts/inspector.js:80:12\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1715:21\nCanCloseWindow@chrome://browser/content/browser.js:8156:36\nWindowIsClosing@chrome://browser/content/browser.js:8185:7\nBrowserTryToCloseWindow@chrome://browser/content/browser.js:3114:22\noncommand@chrome://browser/content/browser.xhtml:1:24\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451033/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:91:30\ninitialize@resource://devtools/client/fronts/inspector.js:80:12\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1715:21\nCanCloseWindow@chrome://browser/content/browser.js:8156:36\nWindowIsClosing@chrome://browser/content/browser.js:8185:7\nBrowserTryToCloseWindow@chrome://browser/content/browser.js:3114:22\noncommand@chrome://browser/content/browser.xhtml:1:24\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451031/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:91:30\ninitialize@resource://devtools/client/fronts/inspector.js:80:12\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1715:21\nCanCloseWindow@chrome://browser/content/browser.js:8156:36\nWindowIsClosing@chrome://browser/content/browser.js:8185:7\nBrowserTryToCloseWindow@chrome://browser/content/browser.js:3114:22\noncommand@chrome://browser/content/browser.xhtml:1:24\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451033/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:91:30\ninitialize@resource://devtools/client/fronts/inspector.js:80:12\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1715:21\nCanCloseWindow@chrome://browser/content/browser.js:8156:36\nWindowIsClosing@chrome://browser/content/browser.js:8185:7\nBrowserTryToCloseWindow@chrome://browser/content/browser.js:3114:22\noncommand@chrome://browser/content/browser.xhtml:1:24\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal6442451031/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:300:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+_getWalker@resource://devtools/client/fronts/inspector.js:91:30
+initialize@resource://devtools/client/fronts/inspector.js:80:12
+permitUnload@chrome://global/content/elements/browser-custom-element.js:1715:21
+CanCloseWindow@chrome://browser/content/browser.js:8156:36
+WindowIsClosing@chrome://browser/content/browser.js:8185:7
+BrowserTryToCloseWindow@chrome://browser/content/browser.js:3114:22
+oncommand@chrome://browser/content/browser.xhtml:1:24
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal6442451033/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:300:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+_getWalker@resource://devtools/client/fronts/inspector.js:91:30
+initialize@resource://devtools/client/fronts/inspector.js:80:12
+permitUnload@chrome://global/content/elements/browser-custom-element.js:1715:21
+CanCloseWindow@chrome://browser/content/browser.js:8156:36
+WindowIsClosing@chrome://browser/content/browser.js:8185:7
+BrowserTryToCloseWindow@chrome://browser/content/browser.js:3114:22
+oncommand@chrome://browser/content/browser.xhtml:1:24
+
+1676344029365	Marionette	INFO	Stopped listening on port 59666
+Dynamically enable window occlusion 1
+1676400988558	geckodriver	INFO	Listening on 127.0.0.1:50433
+1676400991932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50434" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileFXnbIb"
+1676400992567	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676400992580	Marionette	INFO	Listening on port 50448
+Read port: 50448
+WebDriver BiDi listening on ws://127.0.0.1:50434
+1676400992820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileFXnbIb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50434/devtools/browser/52effb47-000b-4972-8e5f-5abc65e46002
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/s?k=Baby+Toys&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: Failed to open input source 'file:///'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1676401019052	Marionette	INFO	Stopped listening on port 50448
+Dynamically enable window occlusion 1
+1676401825981	geckodriver	INFO	Listening on 127.0.0.1:52661
+1676401829033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52662" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofile8OO30j"
+1676401829494	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676401829506	Marionette	INFO	Listening on port 52671
+Read port: 52671
+WebDriver BiDi listening on ws://127.0.0.1:52662
+1676401829711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofile8OO30j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52662/devtools/browser/57943786-d0fb-42ba-91de-bb73564429cc
+1676401848017	Marionette	INFO	Stopped listening on port 52671
+Dynamically enable window occlusion 1
+1676401865663	geckodriver	INFO	Listening on 127.0.0.1:52757
+1676401868705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52758" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileI0oQMj"
+1676401869163	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676401869171	Marionette	INFO	Listening on port 52766
+Read port: 52766
+WebDriver BiDi listening on ws://127.0.0.1:52758
+1676401869381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileI0oQMj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52758/devtools/browser/aae47617-8cb4-4540-b111-8381f3c054af
+JavaScript warning: https://www.amazon.com/ line 2222 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/s?k=Baby+Toys&ref=nb_sb_noss line 8710 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676401894823	Marionette	INFO	Stopped listening on port 52766
+Dynamically enable window occlusion 1
+1676402171017	geckodriver	INFO	Listening on 127.0.0.1:53381
+1676402174070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53382" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileqo6C72"
+1676402174527	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676402174540	Marionette	INFO	Listening on port 53390
+Read port: 53390
+WebDriver BiDi listening on ws://127.0.0.1:53382
+1676402174749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileqo6C72\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53382/devtools/browser/4277fce0-8c39-4173-9566-9d5352eb7550
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Baby+Toys&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676402200326	Marionette	INFO	Stopped listening on port 53390
+Dynamically enable window occlusion 1
+1676403310815	geckodriver	INFO	Listening on 127.0.0.1:54245
+1676403313861	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54246" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofilevC2upx"
+1676403314560	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676403314571	Marionette	INFO	Listening on port 54256
+Read port: 54256
+WebDriver BiDi listening on ws://127.0.0.1:54246
+1676403314800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofilevC2upx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54246/devtools/browser/bbfc8b33-fecc-4871-bf13-746b9c6f4d46
+JavaScript warning: https://www.amazon.com/ line 2222 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/s?k=Baby+Toys&ref=nb_sb_noss line 8708 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676403334037	Marionette	INFO	Stopped listening on port 54256
+Dynamically enable window occlusion 1
+1676403440939	geckodriver	INFO	Listening on 127.0.0.1:54531
+1676403443983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54532" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileVnMY2D"
+1676403444615	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676403444631	Marionette	INFO	Listening on port 54542
+Read port: 54542
+WebDriver BiDi listening on ws://127.0.0.1:54532
+1676403444853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileVnMY2D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54532/devtools/browser/a4a43d11-63c6-4a46-8819-5af13f450595
+JavaScript warning: https://www.amazon.com/ line 2220 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Baby+Toys line 8833 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676405210855	Marionette	INFO	Stopped listening on port 54542
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54713" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileifTSh2"
+1676403463461	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676403463472	Marionette	INFO	Listening on port 54724
+Read port: 54724
+WebDriver BiDi listening on ws://127.0.0.1:54713
+1676403463709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileifTSh2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54713/devtools/browser/e135db33-d425-4a9c-af79-e1bb4a51cbfa
+JavaScript warning: https://www.amazon.com/ line 2216 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 587: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Baby+Toys line 8841 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+1676403493029	Marionette	INFO	Stopped listening on port 54724
+Dynamically enable window occlusion 1
+1676403502368	geckodriver	INFO	Listening on 127.0.0.1:54935
+1676403505386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54936" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofile52rBeU"
+1676403505884	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676403505900	Marionette	INFO	Listening on port 54943
+Read port: 54943
+WebDriver BiDi listening on ws://127.0.0.1:54936
+1676403506152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofile52rBeU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54936/devtools/browser/31793b72-7b6a-44e9-90ab-7fb1b1e8db78
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/s?k=Baby+Toys&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676403556256	Marionette	INFO	Stopped listening on port 54943
+Dynamically enable window occlusion 1
+1676403696023	geckodriver	INFO	Listening on 127.0.0.1:55193
+1676403699054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55194" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofilepUNmlB"
+1676403699496	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676403699507	Marionette	INFO	Listening on port 55201
+Read port: 55201
+WebDriver BiDi listening on ws://127.0.0.1:55194
+1676403699747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofilepUNmlB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55194/devtools/browser/df2a5b37-ea6d-45bf-a28b-4500a476cc0a
+JavaScript warning: https://www.amazon.com/ line 2222 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Baby+Toys line 8791 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676403751735	Marionette	INFO	Stopped listening on port 55201
+Dynamically enable window occlusion 1
+1676404894442	geckodriver	INFO	Listening on 127.0.0.1:56681
+1676404897502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56682" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileKwjvlE"
+1676404897929	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676404897940	Marionette	INFO	Listening on port 56690
+Read port: 56690
+WebDriver BiDi listening on ws://127.0.0.1:56682
+1676404898140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofileKwjvlE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56682/devtools/browser/1991146f-c6b2-46c0-81a1-a16c77ecb1ec
+JavaScript warning: https://www.amazon.com/ line 2222 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Bright+Starts+Oball+Shaker+Rattle+Toy%2C+Ages+Newborn+%2B line 4961 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/Oball-81107-Kids-Shaker-Toy/dp/B008J1QP7Y/ref=sr_1_1?keywords=Bright+Starts+Oball+Shaker+Rattle+Toy%2C+Ages+Newborn+%2B&qid=1676404908&sr=8-1 line 11382 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/ref=nav_logo line 2183 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/s?k=Bright+Starts+Oball+Shaker+Rattle+Toy%2C+Ages+Newborn+%2B&crid=1WPWM0RQ9FUS1&sprefix=bright+starts+oball+shaker+rattle+toy%2C+ages+newborn+%2B%2Caps%2C68&ref=nb_sb_noss_1 line 4969 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/Oball-81107-Kids-Shaker-Toy/dp/B008J1QP7Y/ref=sr_1_1?crid=1WPWM0RQ9FUS1&keywords=Bright+Starts+Oball+Shaker+Rattle+Toy%2C+Ages+Newborn+%2B&qid=1676404928&sprefix=bright+starts+oball+shaker+rattle+toy%2C+ages+newborn+%2B%2Caps%2C68&sr=8-1 line 11383 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676404934580	Marionette	INFO	Stopped listening on port 56690
+Dynamically enable window occlusion 1
+1676405029649	geckodriver	INFO	Listening on 127.0.0.1:57009
+1676405032720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57010" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofile9S4JVy"
+1676405033115	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676405033128	Marionette	INFO	Listening on port 57022
+Read port: 57022
+WebDriver BiDi listening on ws://127.0.0.1:57010
+1676405033329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofile9S4JVy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57010/devtools/browser/fa8e9c38-0d18-4af3-9bdd-7dc0ec7c306c
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EWloDjzMQOvRZmCEufFfn6ZrYQ_lvyXFrAdKlYrDV_0.js line 2 > eval line 5455 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.amazon.com/Oball-81107-Kids-Shaker-Toy/dp/B008J1QP7Y/ref=sr_1_1?keywords=bright+starts+oball+shaker+rattle+toy%23+ages+newborn+%2B&qid=1676405045&sr=8-1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/cart/smart-wagon?newItems=9fa8ef98-487d-4f87-86e7-d641e104a9fd,1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal6442450982/domnode70, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:300:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:103:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:93:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:101:31
+
+1676405212070	Marionette	INFO	Stopped listening on port 57022
+Dynamically enable window occlusion 1
+ox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/Oball-81107-Kids-Shaker-Toy/dp/B008J1QP7Y/ref=sr_1_1?keywords=bright+starts+oball+shaker+rattle+toy%23+ages+newborn+%2B&qid=1676405167&sr=8-1 line 11551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/cart/add-to-cart/ref=dp_start-bbf_1_glance line 3187 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/cart/view.html?ref_=sw_gtc line 3769 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/8190qjYC-jL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71EmbA4XmVL.js, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71EmbA4XmVL.js, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676405207182	Marionette	INFO	Stopped listening on port 57327
+Dynamically enable window occlusion 1
+1676405236492	geckodriver	INFO	Listening on 127.0.0.1:57586
+1676405239569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57587" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofilej9orex"
+1676405239997	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676405240005	Marionette	INFO	Listening on port 57596
+Read port: 57596
+WebDriver BiDi listening on ws://127.0.0.1:57587
+1676405240207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofilej9orex\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57587/devtools/browser/7a901141-1a4b-4c41-9128-33c7814dd53a
+JavaScript warning: https://www.amazon.com/ line 2226 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Bright+Starts+Oball+Shaker+Rattle+Toy%2C+Ages+Newborn+%2B line 4974 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/Oball-81107-Kids-Shaker-Toy/dp/B008J1QP7Y/ref=sr_1_1?keywords=Bright+Starts+Oball+Shaker+Rattle+Toy%2C+Ages+Newborn+%2B&qid=1676405249&sr=8-1 line 11532 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/cart/add-to-cart/ref=dp_start-bbf_1_glance line 3179 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/cart/view.html?ref_=sw_gtc line 3774 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71EmbA4XmVL.js, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71EmbA4XmVL.js, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false;'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false;'
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1676412727873	Marionette	INFO	Stopped listening on port 57596
+Dynamically enable window occlusion 1
+1677084539101	geckodriver	INFO	Listening on 127.0.0.1:53683
+1677084542156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53684" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofiledgE8l9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677084542677	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677084542685	Marionette	INFO	Listening on port 53693
+Read port: 53693
+WebDriver BiDi listening on ws://127.0.0.1:53684
+1677084542804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofiledgE8l9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53684/devtools/browser/452ca857-0827-4578-96bc-56c2d4413261
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+1677084556759	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Bright+Starts+Oball+Shaker+Rattle+Toy%2C+Ages+Newborn+%2B line 5229 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/Oball-81107-Kids-Shaker-Toy/dp/B008J1QP7Y/ref=sr_1_1?keywords=Bright+Starts+Oball+Shaker+Rattle+Toy%2C+Ages+Newborn+%2B&qid=1677084558&sr=8-1 line 11485 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/cart/add-to-cart/ref=dp_start-bbf_1_glance line 3168 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677084577380	Marionette	INFO	Stopped listening on port 53693
+Dynamically enable window occlusion 1
+1677084577807	geckodriver	INFO	Listening on 127.0.0.1:53845
+1677084580828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53846" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofilebe9QS6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677084581153	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677084581160	Marionette	INFO	Listening on port 53853
+Read port: 53853
+WebDriver BiDi listening on ws://127.0.0.1:53846
+1677084581268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofilebe9QS6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53846/devtools/browser/345b9c0a-a5db-4f2a-9e86-94de96097bf1
+JavaScript warning: https://src.ebay-us.com/kJhfhWTxfbNTYscT?3882721838b5f51b=lzDVtz55R3LpMqpZ5OgMmJaQXarY7ZLD9d_6sKqjkKTfcEfIvSd1q8xDSPe8Dv6pqbBZLb66v_gWK-UgUY3qJ3-sFaj-saB3quP3JH3buVx-lcbN1b3HE7TFsO_2EInE6vkZpXQBZ4DmG5JvVQWSc5SnorszV1UJz7ZsTeaXhj_cjtw4rUM6agNYt5xM2-cVWTg9f4GowJMudptWMmbXIPg&jb=343126246a736d753d5f6b6e646d75732668736f3d576b6e666d75732732303132266a7162753f46697a67666f7a246a73603d46697267666d7a273232313130, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/kJhfhWTxfbNTYscT?3882721838b5f51b=lzDVtz55R3LpMqpZ5OgMmJaQXarY7ZLD9d_6sKqjkKTfcEfIvSd1q8xDSPe8Dv6pqbBZLb66v_gWK-UgUY3qJ3-sFaj-saB3quP3JH3buVx-lcbN1b3HE7TFsO_2EInE6vkZpXQBZ4DmG5JvVQWSc5SnorszV1UJz7ZsTeaXhj_cjtw4rUM6agNYt5xM2-cVWTg9f4GowJMudptWMmbXIPg&jb=343126246a736d753d5f6b6e646d75732668736f3d576b6e666d75732732303132266a7162753f46697a67666f7a246a73603d46697267666d7a273232313130, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 7669 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 3747 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677084614780	Marionette	INFO	Stopped listening on port 53853
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 24872, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1677085889220	geckodriver	INFO	Listening on 127.0.0.1:54640
+1677085892285	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofiler6ePdM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677085892633	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677085892641	Marionette	INFO	Listening on port 54648
+WebDriver BiDi listening on ws://127.0.0.1:54641
+Read port: 54648
+1677085892898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofiler6ePdM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54641/devtools/browser/ebbd6d78-38d4-48ca-b2cf-d52c0fa33b08
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/ line 2202 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677085955305	Marionette	INFO	Stopped listening on port 54648
+Dynamically enable window occlusion 1
+ing preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677085928946	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677085928958	Marionette	INFO	Listening on port 54714
+Read port: 54714
+WebDriver BiDi listening on ws://127.0.0.1:54707
+1677085929066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anilp\\AppData\\Local\\Temp\\rust_mozprofile6EuXJd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54707/devtools/browser/c8b3dd63-c2b8-4c47-9128-4e1db37ddea8
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:297:29
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:297:29\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:576:16\n"
+1677085933904	Marionette	INFO	Stopped listening on port 54714
+Dynamically enable window occlusion 1
