@@ -1,0 +1,776 @@
+1676398113519	geckodriver	INFO	Listening on 127.0.0.1:63780
+1676398116536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63781" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofile7zBZs5"
+1676398117794	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676398117807	Marionette	INFO	Listening on port 63795
+Read port: 63795
+WebDriver BiDi listening on ws://127.0.0.1:63781
+1676398118819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofile7zBZs5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63781/devtools/browser/556143c7-98b0-4a7e-9489-0245a4c780ba
+JavaScript warning: https://www.amazon.com/ line 2222 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676398151769	Marionette	INFO	Stopped listening on port 63795
+Dynamically enable window occlusion 1
+1676398163183	geckodriver	INFO	Listening on 127.0.0.1:63986
+1676398166237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63987" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofilee4pgkT"
+1676398166729	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676398166739	Marionette	INFO	Listening on port 63994
+Read port: 63994
+WebDriver BiDi listening on ws://127.0.0.1:63987
+1676398166976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofilee4pgkT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63987/devtools/browser/4d759bb1-b564-4224-887b-beccf10e4f4e
+JavaScript warning: https://www.amazon.com/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript error: https://i5.walmartimages.com/dfw/63fd9f59-28af/d522f760-7e10-423e-a4b0-572b52cddd04/v2/en-US/_next/static/chunks/pages/_app-34699bd8e753f306.js, line 1: SyntaxError: Performance.measure: Given mark name, tmx-profiling-start, is unknown
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.walmart.com."
+JavaScript warning: https://www.walmart.com/px/PXu6b0qd2S/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.walmart.com/px/PXu6b0qd2S/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.walmart.com/px/PXu6b0qd2S/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://drfdisvc.walmart.com/ux_L16x22e6PMgQA?f743dddbe42d7f43=BLGjoFiEdG90g4OUxMxZTeQsDJwAL_w_Cpw0wxwz6nr-wKP90M-ZdobB9JfzvtFs9DrbBHFGL5lhpS7ddqN7kF_hIUJGxpTZvupC_Z_cr7C4T0ab91DsirHZ83TgCFLeJnuaxUPvt0HBSf8HL0bJFjWcDjAHzNmLCuMX5Xas2GcAoJTJyot3wTv_OBTW-k1z8vMbJs3JXSv0YAEP&jb=3c39262c6a796f7d3f55636c6c677571266a73653d576964666d7d71273232313224687b687d3d4c6978656e6d7a2c687b6a3f446972656c6f78253832333a3b, line 572: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1676401120022	Marionette	INFO	Stopped listening on port 63994
+Dynamically enable window occlusion 1
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+invalid readyState of 'interactive'.
+1676398361689	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1676398361699	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1676398361708	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1676398361719	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1676398361726	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1676398361735	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.walmart.com/px/PXu6b0qd2S/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.walmart.com/px/PXu6b0qd2S/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://drfdisvc.walmart.com/67hIy8RxM-vc-RFW?9df0c0c5a7b142d3=593sdZy_PucNGzz7Q416gCBzAR0hu7aZp27L6eCNiphmDp07QRs93QrZYa4SVgkz1gWAkRLIMqpWKGHDY7-x-Ed4R7vz4t5OhA9Sx8gnQPPAdy9h_i_s-lstWNzhJ3N10Bcdf8EJUcG3tC0Ch92yDWP1-qjYTI175tYDhUGYfv6TWPV7ieOTVx33b2cTX_2i1XlNmasTwbL9WQ0B&jb=34332c266a796f7d3755616e6667777b2e627367355f636c646f757b253038313a246a71607737466978656e657a2e6a716a3d4e617a656e67702f3030313231, line 627: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 568"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:568:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 568, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 568: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Panel inspector:" (new Error("Can not send request 'finalize' because front 'customhighlighter' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1676399134746	Marionette	INFO	Stopped listening on port 64261
+Dynamically enable window occlusion 1
+1676399295526	geckodriver	INFO	Listening on 127.0.0.1:64655
+1676399298577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64656" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofileOAfSeR"
+1676399298984	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676399298995	Marionette	INFO	Listening on port 64663
+Read port: 64663
+WebDriver BiDi listening on ws://127.0.0.1:64656
+1676399299155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofileOAfSeR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64656/devtools/browser/38e6c60d-3fe7-414a-98fc-09ad698fec01
+JavaScript error: https://i5.walmartimages.com/dfw/63fd9f59-28af/d522f760-7e10-423e-a4b0-572b52cddd04/v2/en-US/_next/static/chunks/pages/_app-34699bd8e753f306.js, line 1: SyntaxError: Performance.measure: Given mark name, tmx-profiling-start, is unknown
+JavaScript warning: https://www.walmart.com/swag/v2/ip-rd, line 39: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://drfdisvc.walmart.com/a1inQcCnYbj5xeN6?e6d3ce07909d3d83=XSVp-j5rxxL01ZiPSkegM7kQPV-6aufTNArfPYIrsM_PF_nAaf_wKXTcXDu3McuRLGRzrpTfcK-stWonLDrdqw6NW7txXm5_ux4uL0AlWYWJJzRrMBkS44Y_uBnAHzYiIOxonJgxK_6rH7uquqvberjGWLrxT_5xPzvE0A-HSnoWeWjt2l5KAj6VOaRfbBbusIK075eEn7G77lKN&jb=3e312e2e60736f7d3d576964666f7f7924687b673f5d6b64646f757b2d303a31302e687b6a75354e6372656e6f7826607162354c6b706d6e6d72273830313231, line 1090: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 568"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:568:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 568, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 568: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://www.walmart.com/px/PXu6b0qd2S/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1676401116218	Marionette	INFO	Stopped listening on port 64663
+Dynamically enable window occlusion 1
+: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 568"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:568:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 568, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 568: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1676401121811	Marionette	INFO	Stopped listening on port 65312
+Dynamically enable window occlusion 1
+/www.walmart.com/px/PXu6b0qd2S/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://drfdisvc.walmart.com/DZ9AnXooYiKekmYi?dc8462bd11ac0f97=s2B9aELkUgwnmiukyY76r5VLFTaHjV2eu_m5FmlE5dfI8-vbCeJEH0PZCJ78GZdytqlz1t8deHWub6qKHXCpCRMC78niMGtIECHVE7RA5SA6b6G82iZUia2hb4bG3TQ35bvA0LmGgcAa1CtRWukXo_mzEcItOQQjiU_6QgUwQwH-3jGlBPz2q7wAA1RJs2OXwkV35KitWCQEynN2&jb=343b24266a7b6d7f37556366646d75792662716f35556b6e646d7f7b253a3831382e6a7b607f3f46697a676c657a2c6273603f4c697a6766677a273230333831, line 1049: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.walmart.com."
+1676400291006	Marionette	INFO	Stopped listening on port 65521
+Dynamically enable window occlusion 1
+1676400567322	geckodriver	INFO	Listening on 127.0.0.1:50364
+1676400570394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50365" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofile0BPrWU"
+1676400570970	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676400570976	Marionette	INFO	Listening on port 50375
+Read port: 50375
+WebDriver BiDi listening on ws://127.0.0.1:50365
+1676400571161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofile0BPrWU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50365/devtools/browser/a9638b4d-5f1c-4eaa-84e6-2ec8af9bff9d
+JavaScript warning: https://www.macys.com/__QgOH-AE/u/XTU75qGg/XEkiDQfhii/EA1mYRtQBw/Nm5Iblly/UQEB, line 1: unreachable code after return statement
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript warning: https://www.macys.com/__QgOH-AE/u/XTU75qGg/XEkiDQfhii/EA1mYRtQBw/Nm5Iblly/UQEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk vendors~adobePlaceholderView~carouselView~dynamicSlideShowView~slideShowView failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.vendors~adobePlaceholderView~carouselView~dynamicSlideShowView~slideShowView.14620bebcc6c97df15ed.js)
+JavaScript warning: https://www.macys.com/__QgOH-AE/u/XTU75qGg/XEkiDQfhii/EA1mYRtQBw/Nm5Iblly/UQEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.macysassets.com/web20/assets/script/macys/international/welcomeMat.js, line 2: TypeError: MACYS.namespace is not a function
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk initAdaptiveHeader failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.initAdaptiveHeader.6d67dbeea90a8ce63e0a.js)
+JavaScript warning: https://tags.tiqcdn.com/utag/macys/main/prod/utag.js, line 405: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.macys.com/ line 22 > injectedScript, line 281: uncaught exception: TypeError: document.querySelectorAll(...).remove is not a function
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://www.macys.com/akam-sw.js for scope https://www.macys.com/ encountered an error during installation.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BCIcmf313WzoCVCbVncOKNc8C4ARuhVvc7JlJ5i6CqM.js line 2 > eval line 7780 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676401125144	Marionette	INFO	Stopped listening on port 50375
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51195" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofile4CiV8v"
+1676400717403	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676400717414	Marionette	INFO	Listening on port 51206
+Read port: 51206
+WebDriver BiDi listening on ws://127.0.0.1:51195
+1676400717611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofile4CiV8v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51195/devtools/browser/f916ca86-e2a9-42df-9ec7-f44f5cc90c1b
+JavaScript warning: https://www.macys.com/__QgOH-AE/u/XTU75qGg/XEkiDQfhii/EA1mYRtQBw/Nm5Iblly/UQEB, line 1: unreachable code after return statement
+JavaScript warning: https://www.macys.com/__QgOH-AE/u/XTU75qGg/XEkiDQfhii/EA1mYRtQBw/Nm5Iblly/UQEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk intersectionObserverPolyfill failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.intersectionObserverPolyfill.577fa265a807c6cf6eeb.js)
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk vendors~adobePlaceholderView~carouselView~dynamicSlideShowView~slideShowView failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.vendors~adobePlaceholderView~carouselView~dynamicSlideShowView~slideShowView.14620bebcc6c97df15ed.js)
+JavaScript warning: https://www.macys.com/__QgOH-AE/u/XTU75qGg/XEkiDQfhii/EA1mYRtQBw/Nm5Iblly/UQEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.macysassets.com/web20/assets/script/macys/international/welcomeMat.js, line 2: TypeError: MACYS.namespace is not a function
+JavaScript error: https://www.macys.com/, line 3943: ChunkLoadError: Loading chunk initAdaptiveHeader failed.
+(error: https://assets.macys.com/page/home-page/static/js/home-page.initAdaptiveHeader.6d67dbeea90a8ce63e0a.js)
+JavaScript warning: https://tags.tiqcdn.com/utag/macys/main/prod/utag.js, line 405: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.macys.com/ line 22 > injectedScript, line 281: uncaught exception: TypeError: document.querySelectorAll(...).remove is not a function
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://www.macys.com/akam-sw.js for scope https://www.macys.com/ encountered an error during installation.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BCIcmf313WzoCVCbVncOKNc8C4ARuhVvc7JlJ5i6CqM.js line 2 > eval line 6738 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 568"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:568:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 568, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 568: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 568"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:568:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 568, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 568: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:712:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:762:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:632:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1046:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:553:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:662:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1046, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1046))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:712:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1676400770813	Marionette	INFO	Stopped listening on port 51206
+Dynamically enable window occlusion 1
+1676401167181	geckodriver	INFO	Listening on 127.0.0.1:52001
+1676401170286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52002" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofile133CTh"
+1676401170748	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676401170756	Marionette	INFO	Listening on port 52009
+Read port: 52009
+WebDriver BiDi listening on ws://127.0.0.1:52002
+1676401170931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofile133CTh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52002/devtools/browser/d30b95cb-b209-4a1d-8e10-d88fd5a47a5b
+JavaScript warning: https://www.amazon.com/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450964/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://www.amazon.com/s?k=alexa+devices&crid=1DPRW7ZZFFW4E&sprefix=alexa%2Caps%2C204&ref=nb_sb_ss_ts-doa-p_2_5 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450971/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript warning: https://www.amazon.com/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/s?k=alexa&crid=3LLGPA2DR1XXL&sprefix=alexa%2Caps%2C94&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=alexa+echo+dot&crid=NZPLOTCHFZ3T&sprefix=alexa+echo%2Caps%2C98&ref=nb_sb_ss_ts-doa-p_2_10 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=alexa+echo+dot+5th+generation+2022&crid=X2XL0B1XF91C&sprefix=alexa+echo+dot%2Caps%2C134&ref=nb_sb_ss_ts-doa-p_2_14 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1676508765032	Marionette	INFO	Stopped listening on port 52009
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "53058" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofileqqfW0P"
+1676423019048	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676423019056	Marionette	INFO	Listening on port 53067
+WebDriver BiDi listening on ws://127.0.0.1:53058
+Read port: 53067
+1676423019329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofileqqfW0P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53058/devtools/browser/cad8eb31-549e-45e4-bd0a-c265c2ca99ee
+JavaScript warning: https://www.amazon.com/ line 2216 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676424400013	Marionette	INFO	Stopped listening on port 53067
+Dynamically enable window occlusion 1
+[Parent 17644, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+\\AppData\\Local\\Temp\\rust_mozprofilesgrDkQ"
+1676423254067	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676423254075	Marionette	INFO	Listening on port 53220
+Read port: 53220
+WebDriver BiDi listening on ws://127.0.0.1:53213
+1676423254285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofilesgrDkQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53213/devtools/browser/b49a8090-d20a-4a41-a906-090e082e71f0
+JavaScript warning: https://www.amazon.com/ line 2222 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676424397372	Marionette	INFO	Stopped listening on port 53220
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53382" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofile8l9GdL"
+1676423305958	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676423305967	Marionette	INFO	Listening on port 53389
+Read port: 53389
+WebDriver BiDi listening on ws://127.0.0.1:53382
+1676423306151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofile8l9GdL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53382/devtools/browser/0a94d9ec-d37a-4600-a27d-aa3911c069b8
+JavaScript warning: https://www.amazon.com/ line 2229 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/s?k=iphone+14+pro+max&ref=nb_sb_noss line 14114 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676424402011	Marionette	INFO	Stopped listening on port 53389
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53521" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofile4OEBaW"
+1676423345920	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676423345929	Marionette	INFO	Listening on port 53528
+Read port: 53528
+WebDriver BiDi listening on ws://127.0.0.1:53521
+1676423346116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofile4OEBaW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53521/devtools/browser/be340b07-3c67-4874-a4af-fc2be95f0154
+JavaScript warning: https://www.amazon.com/ line 2218 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 587: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: https://www.amazon.com/s?k=iphone+14+pro+max&ref=nb_sb_noss line 14101 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1676428998988	Marionette	INFO	Stopped listening on port 53528
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "53831" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofileDysHt4"
+1676424811441	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676424811449	Marionette	INFO	Listening on port 53838
+Read port: 53838
+WebDriver BiDi listening on ws://127.0.0.1:53831
+1676424811598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofileDysHt4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53831/devtools/browser/d3fcf1ce-b3d8-4b46-8081-cd0d551b8b58
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+1676424815496	Marionette	INFO	Stopped listening on port 53838
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1676425011651	geckodriver	INFO	Listening on 127.0.0.1:53928
+1676425014707	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53929" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofilex1DgQa"
+1676425015159	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676425015167	Marionette	INFO	Listening on port 53937
+Read port: 53937
+WebDriver BiDi listening on ws://127.0.0.1:53929
+1676425015374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofilex1DgQa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53929/devtools/browser/fe64ca95-9478-4b08-a6dc-1cc6c77e75d8
+JavaScript warning: https://www.amazon.com/ line 928 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676425154142	Marionette	INFO	Stopped listening on port 53937
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54006" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofilehvGfKN"
+1676425135540	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676425135549	Marionette	INFO	Listening on port 54013
+Read port: 54013
+WebDriver BiDi listening on ws://127.0.0.1:54006
+1676425135708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofilehvGfKN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54006/devtools/browser/76b7666a-7365-48fe-97ad-eb606c5bb7f4
+JavaScript warning: https://www.amazon.com/ line 928 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1676508768399	Marionette	INFO	Stopped listening on port 54013
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "54081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofileexnc6Z"
+1676425223737	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676425223745	Marionette	INFO	Listening on port 54088
+Read port: 54088
+WebDriver BiDi listening on ws://127.0.0.1:54081
+1676425224022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofileexnc6Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54081/devtools/browser/b20cee40-4640-47fa-8a9e-314980eecfb7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/s?k=iphone+14+pro+max&ref=nb_sb_noss line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676425287585	Marionette	INFO	Stopped listening on port 54088
+Dynamically enable window occlusion 1
+1677213153633	geckodriver	INFO	Listening on 127.0.0.1:51388
+1677213156699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51389" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofile4eFSL3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677213157062	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677213157071	Marionette	INFO	Listening on port 51398
+Read port: 51398
+WebDriver BiDi listening on ws://127.0.0.1:51389
+1677213157250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofile4eFSL3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51389/devtools/browser/d656cbf6-5397-4aa6-9fb6-f9e2639589f8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/ line 2184 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677213590308	Marionette	INFO	Stopped listening on port 51398
+Dynamically enable window occlusion 1
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.js", 334))
+mote" "-profile" "C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofileCrq5QO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677213273717	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677213273725	Marionette	INFO	Listening on port 51585
+Read port: 51585
+WebDriver BiDi listening on ws://127.0.0.1:51578
+1677213273897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofileCrq5QO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51578/devtools/browser/e00c42e2-2f7f-40b7-b515-f13cc9b5c621
+1677213451779	Marionette	INFO	Stopped listening on port 51585
+Dynamically enable window occlusion 1
+1677468748734	geckodriver	INFO	Listening on 127.0.0.1:62700
+1677468751799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofilelYGKTt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677468752191	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677468752197	Marionette	INFO	Listening on port 62710
+Read port: 62710
+WebDriver BiDi listening on ws://127.0.0.1:62701
+1677468752352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofilelYGKTt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62701/devtools/browser/49ba8a3d-d103-49ea-9b5e-e1ac81ec2e96
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/ line 2185 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677468820870	Marionette	INFO	Stopped listening on port 62710
+Dynamically enable window occlusion 1
+[Parent 39240, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+\\AppData\\Local\\Temp\\rust_mozprofileS0Gmkm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677468787565	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677468787573	Marionette	INFO	Listening on port 62871
+Read port: 62871
+WebDriver BiDi listening on ws://127.0.0.1:62862
+1677468787750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofileS0Gmkm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62862/devtools/browser/c8403359-45a4-408d-98c5-1fe2cbfb1bab
+1677468797300	Marionette	INFO	Stopped listening on port 62871
+Dynamically enable window occlusion 1
+1677505193649	geckodriver	INFO	Listening on 127.0.0.1:63965
+1677505196723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63966" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofileTrjytA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677505197371	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677505197381	Marionette	INFO	Listening on port 63975
+Read port: 63975
+WebDriver BiDi listening on ws://127.0.0.1:63966
+1677505197624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofileTrjytA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63966/devtools/browser/b7326e35-9229-4e0e-b863-c22572163c95
+1677505212508	Marionette	INFO	Stopped listening on port 63975
+Dynamically enable window occlusion 1
+1677514685257	geckodriver	INFO	Listening on 127.0.0.1:50272
+1677514688327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50273" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofilexjB8CO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677514688866	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677514688886	Marionette	INFO	Listening on port 50281
+Read port: 50281
+WebDriver BiDi listening on ws://127.0.0.1:50273
+1677514689085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofilexjB8CO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50273/devtools/browser/9eff1660-dc2d-4ae8-b620-63e96eba9f6a
+1677514697498	Marionette	INFO	Stopped listening on port 50281
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1677515769801	geckodriver	INFO	Listening on 127.0.0.1:50581
+1677515772872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50582" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofileBAHD4b"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677515773258	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677515773272	Marionette	INFO	Listening on port 50589
+Read port: 50589
+WebDriver BiDi listening on ws://127.0.0.1:50582
+1677515773459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofileBAHD4b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50582/devtools/browser/612b005e-7572-48f4-b2c8-62b2241ee1fc
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instacart.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instacart.com."
+JavaScript error: resource:///modules/UrlbarInput.sys.mjs, line 3212: TypeError: event.target.closest is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instacart.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:50774
+1677516468759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50775" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofilenA5wlk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677516469130	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677516469149	Marionette	INFO	Listening on port 50783
+Read port: 50783
+WebDriver BiDi listening on ws://127.0.0.1:50775
+1677516469321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofilenA5wlk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50775/devtools/browser/aab60000-ff3f-470b-8952-aef522fc594c
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677516694653	geckodriver	INFO	Listening on 127.0.0.1:50882
+1677516697697	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofilebXmtHE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677516698253	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677516698271	Marionette	INFO	Listening on port 50890
+Read port: 50890
+WebDriver BiDi listening on ws://127.0.0.1:50883
+1677516698494	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofilebXmtHE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50883/devtools/browser/6c8c1380-801b-4db4-9676-149f336f6774
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:51109
+1677517304088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51110" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofilemvH0Tk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677517304479	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677517304498	Marionette	INFO	Listening on port 51117
+Read port: 51117
+WebDriver BiDi listening on ws://127.0.0.1:51110
+1677517304663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\indir\\AppData\\Local\\Temp\\rust_mozprofilemvH0Tk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51110/devtools/browser/357e125e-f9ee-4ce0-a8fd-5af44ed13dc9
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
