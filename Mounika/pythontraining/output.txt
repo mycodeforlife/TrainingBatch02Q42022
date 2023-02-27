@@ -1,0 +1,1 @@
+read statements this steps are added in input filethese can be read by pythonneed to give inputs from command lineneed to add a for loop for displaying each line
