@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31c37606-fd93-40af-b456-35258dc9e463" name="Changes" comment="new selenium test case">
-      <change afterPath="$PROJECT_DIR$/Indira/PythonTraining/dominos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indira/PythonTraining/instacart_testcase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indira/PythonTraining/new.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indira/PythonTraining/signup_form.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indira/PythonTraining/browser_interaction.py" beforeDir="false" afterPath="$PROJECT_DIR$/Indira/PythonTraining/browser_interaction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indira/PythonTraining/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/Indira/PythonTraining/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
